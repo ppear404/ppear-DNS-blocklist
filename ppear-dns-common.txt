@@ -1,2 +1,86 @@
+# Anime
 crunchyroll.com
 crunchyrollcdn.com
+
+# Anthropic Claude
+claude.ai
+claude.com
+
+# Google Gemini
+gemini.google.com
+aistudio.google.com
+makersuite.google.com
+generativelanguage.googleapis.com
+
+# Microsoft Copilot
+copilot.microsoft.com
+copilot.com
+copilot.ai
+sydney.bing.com
+
+# Perplexity
+perplexity.ai
+
+# xAI Grok
+grok.com
+grok.x.ai
+
+# DeepSeek
+deepseek.com
+deepseek.ai
+
+# Meta AI
+meta.ai
+
+# Character AI
+character.ai
+beta.character.ai
+
+# Poe
+poe.com
+
+# Mistral AI
+chat.mistral.ai
+mistral.ai
+
+# Hugging Face
+huggingface.co
+
+# You.com
+you.com
+
+# Kimi
+kimi.com
+moonshot.ai
+
+# Midjourney
+midjourney.com
+
+# Leonardo AI
+leonardo.ai
+
+# Ideogram
+ideogram.ai
+
+# Runway
+runwayml.com
+
+# Stability AI
+stability.ai
+dreamstudio.ai
+
+# Adobe Firefly
+firefly.adobe.com
+
+# Other AI services
+pi.ai
+phind.com
+gamma.app
+suno.com
+udio.com
+elevenlabs.io
+synthesia.io
+jasper.ai
+copy.ai
+writesonic.com
+quillbot.com
