@@ -80,3 +80,104 @@ jasper.ai
 copy.ai
 writesonic.com
 quillbot.com
+
+# GitHub Copilot
+githubcopilot.com
+copilot.github.com
+api.githubcopilot.com
+copilot-proxy.githubusercontent.com
+copilot-individual.githubusercontent.com
+copilot-business.githubusercontent.com
+copilot-enterprise.githubusercontent.com
+
+# Cursor
+cursor.com
+cursor.sh
+cursor-cdn.com
+cursorapi.com
+
+# Windsurf / Codeium
+windsurf.com
+codeium.com
+codeium.computer
+
+# Replit AI
+replit.com
+replit.ai
+
+# Tabnine
+tabnine.com
+
+# Sourcegraph Cody
+sourcegraph.com
+cody.dev
+
+# Amazon Q Developer
+q.aws.amazon.com
+aws.dev
+
+# JetBrains AI
+ai.jetbrains.com
+grazie.ai
+
+# Google AI coding tools
+aistudio.google.com
+generativelanguage.googleapis.com
+firebase.studio
+idx.google.com
+jules.google.com
+
+# Devin
+devin.ai
+cognition.ai
+
+# Lovable
+lovable.dev
+
+# Bolt
+bolt.new
+stackblitz.com
+
+# v0 by Vercel
+v0.dev
+v0.app
+
+# Augment Code
+augmentcode.com
+
+# Qodo
+qodo.ai
+codium.ai
+
+# Continue
+continue.dev
+
+# Aider
+aider.chat
+
+# Zed AI
+zed.dev
+
+# Blackbox AI
+blackbox.ai
+
+# Phind
+phind.com
+
+# Claude Code
+api.anthropic.com
+
+# GitHub Copilot additional endpoints
+origin-tracker.githubusercontent.com
+copilot-telemetry.githubusercontent.com
+individual.githubcopilot.com
+business.githubcopilot.com
+enterprise.githubcopilot.com
+
+# Cursor additional endpoints
+cursorvm.com
+api2.cursor.sh
+api3.cursor.sh
+api4.cursor.sh
+api5.cursor.sh
+repo42.cursor.sh
