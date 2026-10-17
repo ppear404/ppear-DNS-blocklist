@@ -1,7 +1,3 @@
-# Anime
-crunchyroll.com
-crunchyrollcdn.com
-
 # Anthropic Claude
 claude.ai
 claude.com
